@@ -1,6 +1,6 @@
 # NnSwiftPlayground
 
-(A place share my Swift and SwiftUI experiments)
+(A place to share my Swift and SwiftUI experiments)
 
 This organization will gradually grow as I publish demo projects that showcase custom view modifiers I use often in my own development. I’ll also use it to highlight SwiftUI behavior, bugs, or edge cases I’ve run into while building apps. Everything is public and open source, and each project focuses on doing one thing clearly and cleanly.
 

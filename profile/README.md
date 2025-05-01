@@ -17,4 +17,4 @@ Each repository includes an Xcode 16 project with a README that explains what th
 
 ## Feedback
 
-This isn’t an open-source project I expect contributions on, but if you have thoughts or ideas, I’d genuinely like to hear them. Whether it’s a better way to use a modifier, an edge case I missed, or just something you found useful, I’m always open to feedback.
+These aren't open-source projects I expect contributions on, but if you have thoughts or ideas, I’d genuinely like to hear them. Whether it’s a better way to use a modifier, an edge case I missed, or just something you found useful, I’m always open to feedback.
